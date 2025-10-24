@@ -1,3 +1,5 @@
-# CDCFnet: A nondestructive testing method for surface defects in copper strips and plates based on feature fusion of visible and near-infrared images
+# A dual-modal surface defect detection network for copper strips and plates based on feature fusion of visible-light and near-infrared images
 
-Here is the official code of CuDCFnet. The code will be coming soon!
+1. Here is the official code of CDCFnet. The code will be coming soon!
+
+2. The KUST-BCSD dataset is a dual-modal surface defect dataset for copper strips and plates, which will be released soon.
