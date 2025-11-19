@@ -1,4 +1,4 @@
-# A dual-modal surface defect detection network for copper strips and plates based on feature fusion of visible-light and near-infrared images
+# A dual-modal object detection method based on cross-modal cross-scale image feature fusion for surface defects of copper strips and plates 
 
 1. Here is the official code of CDCFnet. The code will be coming soon!
 
